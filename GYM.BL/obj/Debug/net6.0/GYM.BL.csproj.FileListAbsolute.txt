@@ -1,0 +1,4 @@
+C:\Users\hawai\source\repos\GYM\GYM.BL\obj\Debug\net6.0\GYM.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hawai\source\repos\GYM\GYM.BL\obj\Debug\net6.0\GYM.BL.AssemblyInfoInputs.cache
+C:\Users\hawai\source\repos\GYM\GYM.BL\obj\Debug\net6.0\GYM.BL.AssemblyInfo.cs
+C:\Users\hawai\source\repos\GYM\GYM.BL\obj\Debug\net6.0\GYM.BL.csproj.CoreCompileInputs.cache
